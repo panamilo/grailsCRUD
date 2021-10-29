@@ -7,7 +7,7 @@ Currently working on the Search fields functionality and converting the main tab
 
 This is the landing page. Also servers as the login page.
 
-![image](https://user-images.githubusercontent.com/91724132/139430584-3a600afd-d8e0-4f38-a1b2-85f39361e9a8.png) 
+![image](https://user-images.githubusercontent.com/91724132/139435307-839512e2-5d44-453b-ae80-8995babfa40e.png)
 
 This is the register page. 
 
