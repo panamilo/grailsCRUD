@@ -1,8 +1,10 @@
 # grailsCRUD
 A simple aproach on the grails CRUD functionalities w/ postgresql (not using spring security plugin). The particular Project is about songs, artists and more. A user can log into the app and then he can browse around his songlist. Add/delete/edit songs etc.
 
+Fixed the Search functionality and the Privacy Section is working almost as it should be.(Only some UI improvements needed).
 
-Currently working on the Search fields functionality and converting the main table to Datatable. Also the credentials section is still under work.
+
+**Currently working on replacing standard table with a DataTable using an ajax call.**
 
 
 This is the landing page. Also servers as the login page.
