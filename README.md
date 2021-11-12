@@ -5,7 +5,7 @@ Fixed the DataTables Integration. You can see the comparison in the main page sc
 
 
 
-This is the landing page. Also servers as the login page.
+This is the landing page. Also serves as the login page.
 
 ![image](https://user-images.githubusercontent.com/91724132/139435307-839512e2-5d44-453b-ae80-8995babfa40e.png)
 
