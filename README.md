@@ -1,9 +1,10 @@
 # grailsCRUD
 A simple aproach on the grails CRUD functionalities w/ postgresql (not using spring security plugin). The particular Project is about songs, artists and more. A user can log into the app and then he can browse around his songlist. Add/delete/edit songs etc.
 
-Fixed the DataTables Integration. You can see the comparison in the main page screeshots. **Next up, clearing the GSPs and doing some UI improvements. Also some minor works in the Datatables.**
+Datatables functionality is on. GSP's and UI improvements made in this version. Also tested pagination and show number of entries 
 
 
+NEXT TASK: **GORM vs PLAIN SQL** . Steadily building GORM features in the project
 
 This is the landing page. Also serves as the login page.
 
@@ -48,6 +49,8 @@ The user similarly can browse to the songs edit page where he can edit the eleme
 The user can drop a song from his songlist using this action. (Keep in mind the song is not actually dropped from the DB entirelly. )
 
 ![image](https://user-images.githubusercontent.com/91724132/141472907-47575686-fbda-4241-8c8a-356f914a5ba4.png)
+![image](https://user-images.githubusercontent.com/91724132/142633522-2bb5d67b-740b-4d9c-8534-9dab171b2f4e.png)
+
 
 The user can check his recently deleted songs using this option
 
