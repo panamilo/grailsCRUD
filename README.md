@@ -4,11 +4,13 @@ A simple aproach on the grails CRUD functionalities w/ postgresql (not using spr
 Datatables functionality is on. GSP's and UI improvements made in this version. Also tested pagination and show number of entries 
 
 
-NEXT TASK: **GORM vs PLAIN SQL** . Steadily building GORM features in the project
+CURRENT TASK: **GORM vs PLAIN SQL** . Steadily building GORM features in the project.
 
-This is the landing page. Also serves as the login page.
+Have Already build all domain classes and relationships between them. Finished the GORM side of the user, now moving onto the song sides.
 
-![image](https://user-images.githubusercontent.com/91724132/139435307-839512e2-5d44-453b-ae80-8995babfa40e.png)
+This is the landing page. Also serves as the login page. **ADDED GORM FUNCTIONALITY BUTTON FOR FUTURE USE**
+
+![image](https://user-images.githubusercontent.com/91724132/143588480-672451bd-9029-4410-8ff3-13b71d3f8fc6.png)
 
 This is the register page. 
 
